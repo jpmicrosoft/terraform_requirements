@@ -1,6 +1,6 @@
 ### Concepts Section
 
--	What is Terraform?
+-	[What is Terraform?](https://www.terraform.io/intro/index.html)
 -	What is the Azure provider? 
 -	Terraform Azure Tutorial
 -	Azure Pipeline Key Concepts
