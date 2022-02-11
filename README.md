@@ -1,3 +1,11 @@
+### Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Concepts Section](#concepts-section)
+- [Download and install](#download-and-install)
+- [Recommend VS Code Extensions](#recommend-vs-code-extensions)
+- [Testing Tools](#testing-tools)
+- [Additional Tools](#additional-tools)
+
 ### Concepts Section
 
 -	[What is Terraform?](https://www.terraform.io/intro/index.html)
