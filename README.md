@@ -22,6 +22,7 @@
 -	[Azure CLI](https://aka.ms/azclinow)
 -	[Power Shell Core](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell?view=powershell-7.1)
 -	[Visual Studio Code](https://aka.ms/vscodenow)
+- [Scott Hanselman’s Ultimate PowerShell Prompt](https://aka.ms/ultimateprompt)
 
 ### Recommend VS Code Extensions
 -	[Azure Pipelines - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-azure-devops.azure-pipelines)
@@ -40,6 +41,7 @@
 - [terraform-compliance](https://terraform-compliance.com/) - Lightweight, security and compliance focused test framework against terraform to enable negative testing capability for your infrastructure-as-code
 - [Terratest](https://github.com/gruntwork-io/terratest) - A Go library that makes it easier to write automated tests for your infrastructure code. It provides a variety of helper functions and patterns for common infrastructure testing tasks
 - [Kitchen-Terraform](https://github.com/newcontext-oss/kitchen-terraform>) - Set of Test Kitchen plugins which enable a system to use Test Kitchen to converge a Terraform configuration and verify the resulting Terraform state with InSpec controls
+- [tfsec](https://github.com/aquasecurity/tfsec) - tfsec uses static analysis of your terraform templates to spot potential security issues.
 
 ### Additional Tools
 - [TerraCognita](https://github.com/cycloidio/terracognita) - Read from your existing cloud providers and generate IaC in Terraform
