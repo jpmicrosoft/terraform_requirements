@@ -22,6 +22,7 @@
 -	[Azure CLI](https://aka.ms/azclinow)
 -	[Power Shell Core](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell?view=powershell-7.1)
 -	[Visual Studio Code](https://aka.ms/vscodenow)
+-	[Windows Terminal](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701?hl=en-us&gl=US)
 - [Scott Hanselman’s Ultimate PowerShell Prompt](https://aka.ms/ultimateprompt)
 - [Azure DevOps Pipelines Terraform Tasks](https://marketplace.visualstudio.com/items?itemName=charleszipp.azure-pipelines-tasks-terraform)
 
