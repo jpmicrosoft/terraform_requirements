@@ -1,6 +1,8 @@
 ### Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Concepts Section](#concepts-section)
+- [CI\CD and Git](#ci-cd-and-git)
+- [Terraform Cloud](#terraform-cloud)
 - [Download and install](#download-and-install)
 - [Recommend VS Code Extensions](#recommend-vs-code-extensions)
 - [Testing Tools](#testing-tools)
@@ -11,9 +13,20 @@
 -	[What is Terraform?](https://www.terraform.io/intro/index.html)
 -	[What is the Azure provider?](https://aka.ms/azterraform)
 -	[Terraform Azure Tutorial](https://aka.ms/terraformgs)
+- [Terraform - Types and Syntax](https://blog.devgenius.io/terraform-types-and-syntax-aa7b90ffff0e)
+- [Terraform Init - Command Overview with Quick Usage Examples](https://faun.pub/terraform-init-command-overview-with-quick-usage-examples-752a5719c317)
+- [Choosing Between Count and For-Each](https://nedinthecloud.com/2022/01/27/choosing-between-count-and-for-each/)
+- [Using the Moved Block in Terraform 1.1](https://nedinthecloud.com/2021/12/14/using-the-moved-block-in-terraform-1-1/)
+- [Terraform Apply? When External Change Happens.](https://nedinthecloud.com/2021/12/23/terraform-apply-when-external-change-happens/)
+
+### CI CD and Git
 -	[Azure Pipeline Key Concepts](https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started/key-pipelines-concepts?view=azure-devops)
 -	[Azure Repos - Please focus on Git and not TFVC.](https://docs.microsoft.com/en-us/azure/devops/repos/get-started/what-is-repos?view=azure-devops)
 -	[Azure Artifacts – Please focus on Build Artifacts.](https://docs.microsoft.com/en-us/azure/devops/pipelines/artifacts/artifacts-overview?view=azure-devops&tabs=nuget)
+- [GitHub Actions with Terraform](https://nedinthecloud.com/2021/12/08/github-actions-with-terraform/)
+
+### Terraform Cloud
+- [Migrating State Data Off Terraform Cloud](https://nedinthecloud.com/2022/03/03/migrating-state-data-off-terraform-cloud/)
 
 ### Download and install
 
