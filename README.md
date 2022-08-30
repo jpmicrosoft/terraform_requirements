@@ -65,3 +65,4 @@
 - [Blast-Radius](https://github.com/28mm/blast-radius) - Tool for reasoning about Terraform dependency graphs with interactive visualizations
 - [Terragrunt](https://github.com/gruntwork-io/terragrunt) - Thin wrapper for Terraform that provides extra tools for keeping your Terraform configurations DRY, working with multiple Terraform modules, and managing remote state
 - [terraform docs](https://terraform-docs.io) - Generate Terraform modules documentation in various formats.
+- [tfswitcher for Windows](https://github.com/jpmicrosoft/tfswitcher) - Windows was missing a Terraform version switching tool. I wrote some PowerShell functions that can be run via the PowerShell Profile that get the job done.
