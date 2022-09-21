@@ -18,6 +18,8 @@
 - [Choosing Between Count and For-Each](https://nedinthecloud.com/2022/01/27/choosing-between-count-and-for-each/)
 - [Using the Moved Block in Terraform 1.1](https://nedinthecloud.com/2021/12/14/using-the-moved-block-in-terraform-1-1/)
 - [Terraform Apply? When External Change Happens.](https://nedinthecloud.com/2021/12/23/terraform-apply-when-external-change-happens/)
+- [Terraform Cheat Sheet](https://itnext.io/terraform-cheat-sheet-3f7c5c55cfbc)
+- [Terraform related articles index (Jack Roper)](https://jackwesleyroper.medium.com/terraform-related-articles-index-52fab8f11a0b)
 
 ### CI CD and Git
 -	[Azure Pipeline Key Concepts](https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started/key-pipelines-concepts?view=azure-devops)
