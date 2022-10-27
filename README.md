@@ -30,6 +30,10 @@
 ### Terraform Cloud
 - [Migrating State Data Off Terraform Cloud](https://nedinthecloud.com/2022/03/03/migrating-state-data-off-terraform-cloud/)
 
+### GitHub and Azure Devops
+- [Hosted Runners/Azure Devops Agents Images](https://github.com/actions/runner)
+- [How to create Runners and/or Agents based on hosted Runners/Agents](https://github.com/actions/runner-images/blob/main/docs/create-image-and-azure-resources.md)
+
 ### Download and install
 
 -	[Terraform](https://aka.ms/terraformnow)
